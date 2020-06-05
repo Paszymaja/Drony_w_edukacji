@@ -1,3 +1,3 @@
 # Drony w edukacji
 
-Artykuł naukowy przedstawiony na VIMiędzynarodowej Konferencji „Mechanizacja, Automatyzacja i Robotyzacja w Górnictwie”.
+Artykuł naukowy przedstawiony na VI Międzynarodowej Konferencji „Mechanizacja, Automatyzacja i Robotyzacja w Górnictwie”.
